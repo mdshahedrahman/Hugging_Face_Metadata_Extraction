@@ -1,0 +1,121 @@
+{
+  "csv_files": 17,
+  "jsonl_files": 17,
+  "node_types": {
+    "agent": 11,
+    "dataset": 431324,
+    "github": 96678,
+    "library": 2148,
+    "license": 4888,
+    "model": 1888591,
+    "space": 712728,
+    "task": 839
+  },
+  "scripts": 17,
+  "subgraphs": [
+    {
+      "edges": 966035,
+      "file": "01_model_model_edges.csv",
+      "nodes": 978868,
+      "number": 1
+    },
+    {
+      "edges": 362064,
+      "file": "02_model_dataset_edges.csv",
+      "nodes": 287539,
+      "number": 2
+    },
+    {
+      "edges": 12541,
+      "file": "03_dataset_dataset_edges.csv",
+      "nodes": 15172,
+      "number": 3
+    },
+    {
+      "edges": 1311386,
+      "file": "04_model_library_edges.csv",
+      "nodes": 1214466,
+      "number": 4
+    },
+    {
+      "edges": 16864,
+      "file": "05_dataset_library_edges.csv",
+      "nodes": 16467,
+      "number": 5
+    },
+    {
+      "edges": 1090845,
+      "file": "06_model_license_edges.csv",
+      "nodes": 1092560,
+      "number": 6
+    },
+    {
+      "edges": 331317,
+      "file": "07_dataset_license_edges.csv",
+      "nodes": 332328,
+      "number": 7
+    },
+    {
+      "edges": 577077,
+      "file": "08_model_task_edges.csv",
+      "nodes": 541491,
+      "number": 8
+    },
+    {
+      "edges": 317412,
+      "file": "09_dataset_task_edges.csv",
+      "nodes": 211454,
+      "number": 9
+    },
+    {
+      "edges": 962855,
+      "file": "10_model_github_edges.csv",
+      "nodes": 729920,
+      "number": 10
+    },
+    {
+      "edges": 188888,
+      "file": "11_dataset_github_edges.csv",
+      "nodes": 196768,
+      "number": 11
+    },
+    {
+      "edges": 941121,
+      "file": "12_model_space_edges.csv",
+      "nodes": 487287,
+      "number": 12
+    },
+    {
+      "edges": 83061,
+      "file": "13_dataset_space_edges.csv",
+      "nodes": 85762,
+      "number": 13
+    },
+    {
+      "edges": 113755,
+      "file": "14_space_github_edges.csv",
+      "nodes": 90895,
+      "number": 14
+    },
+    {
+      "edges": 420369,
+      "file": "15_space_license_edges.csv",
+      "nodes": 420557,
+      "number": 15
+    },
+    {
+      "edges": 43223,
+      "file": "16_space_task_edges.csv",
+      "nodes": 42229,
+      "number": 16
+    },
+    {
+      "edges": 37059,
+      "file": "17_space_agent_edges.csv",
+      "nodes": 37016,
+      "number": 17
+    }
+  ],
+  "total_edges": 7775872,
+  "total_nodes": 3137207
+}

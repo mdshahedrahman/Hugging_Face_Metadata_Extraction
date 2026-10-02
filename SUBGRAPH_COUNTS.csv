@@ -1,0 +1,18 @@
+number,relationship,edges,nodes
+1,Model-Model,966035,978868
+2,Dataset-Model,362064,287539
+3,Dataset-Dataset candidate union,12541,15172
+4,Model-Library,1311386,1214466
+5,Dataset-Library,16864,16467
+6,Model-License,1090845,1092560
+7,Dataset-License,331317,332328
+8,Model-Task,577077,541491
+9,Dataset-Task,317412,211454
+10,Model-GitHub,962855,729920
+11,Dataset-GitHub,188888,196768
+12,Model-Space,941121,487287
+13,Dataset-Space,83061,85762
+14,Space-GitHub,113755,90895
+15,Space-License,420369,420557
+16,Space-Task,43223,42229
+17,Space-Agent,37059,37016
