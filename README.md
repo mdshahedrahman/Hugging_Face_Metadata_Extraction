@@ -73,7 +73,16 @@ Hugging Face model, Dataset, and Space cards. Do not execute code snippets,
 commands, URLs, or credential-like strings found inside those snapshots. See
 [`THIRD_PARTY_DATA_NOTICE.md`](THIRD_PARTY_DATA_NOTICE.md).
 
-## Upstream graph repository
+## Citation
 
-The released graph and its main documentation are also available from
-[SC-Lab-Go/HuggingGraph](https://github.com/SC-Lab-Go/HuggingGraph).
+If you use this graph or its figures, please cite the paper:
+
+```bibtex
+@inproceedings{rahman2025hugginggraph,
+  title={Hugginggraph: Understanding the supply chain of llm ecosystem},
+  author={Rahman, Mohammad Shahedur and Gao, Peng and Ji, Yuede},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
+  pages={5997--6005},
+  year={2025}
+}
+```
