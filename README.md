@@ -1,4 +1,4 @@
-# Hugging Face metadata extraction workings — October 2026
+# Hugging Face metadata extraction — October 2026
 
 This repository preserves the final HuggingGraph v3 analysis archive based on
 the October 2, 2026 snapshot. Only one archived version is published:
