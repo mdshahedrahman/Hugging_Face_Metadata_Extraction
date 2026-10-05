@@ -1,8 +1,7 @@
 # Hugging Face metadata extraction — October 2026
 
 This repository preserves the final HuggingGraph v3 analysis archive based on
-the October 2, 2026 snapshot. Only one archived version is published:
-`v2026.10.02-07`.
+the October 2, 2026 snapshot. 
 
 The Git tree contains the complete source set, documentation, environment
 record, graph counts, archive inventory, and checksums. The full 31 GB archive
